@@ -10,3 +10,5 @@
 # http://anothergisblog.blogspot.com/2011/07/creating-extent-polygons-using-arcpy.html
 # http://gis.stackexchange.com/questions/152250/how-do-i-compare-two-features-to-test-if-they-are-identical
 # http://gis.stackexchange.com/questions/26369/get-all-the-points-of-a-polyline
+# http://gis.stackexchange.com/questions/16122/how-to-create-a-shapefile-in-arcgis-10-using-arcpy
+# http://gis.stackexchange.com/questions/64451/add-value-in-attribute-field-using-arcpy
